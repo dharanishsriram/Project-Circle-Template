@@ -77,3 +77,32 @@
     float:right;
     margin-right:20% ;
 }
+
+/* .grid
+{
+    display: grid;
+    grid-template-rows: repeat(3,2fr);
+    justify-content: space-evenly;
+    gap: 2px;
+    padding: 20px;
+    padding-left: 15%;
+}
+.griditem
+{
+font-size: 30px;
+text-align: center;
+padding: 10%;
+width:40%;
+height: 50%; */
+   
+
+/* } */
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-left: 10%;
+    
+  }
+  
+  
